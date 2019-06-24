@@ -1,2 +1,2 @@
-# public_html_project
-Public HTML Project
+# PUBLIC HTML PROJECT
+Public HTML Project (master branch)
